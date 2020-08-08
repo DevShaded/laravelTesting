@@ -1,5 +1,16 @@
-//
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
 
-body {
-    background-color: purple;
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+section.city {
+    text-align: center;
+}
+
+section.again {
+    padding-top: 100px;
 }

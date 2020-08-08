@@ -52,11 +52,14 @@
                 <hr class="">
                 <div class="d-flex justify-content-between">
                     <p><i><img class="pr-1 pb-3" src="{{ asset('./img/rise.png') }}" alt="Sunrise"></i>{{ $sunrise }}</p>
-                    <p style="padding-right: 60px;"><i><img class="pt-2 pr-1" src="{{ asset('./img/sunset.png') }}" alt="Sunset"></i>{{ $sunset }}</p>
+                    <p style="padding-right: 52px;"><i><img class="pt-2 pr-1" src="{{ asset('./img/sunset.png') }}" alt="Sunset"></i>{{ $sunset }}</p>
                 </div>
             </div>
         </div>
-        </div>
+    </section>
+
+    <section class="again text-center">
+        <h4>Wanna <a href="/">Try Again?</a></h4>
     </section>
 
 
